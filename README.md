@@ -29,9 +29,6 @@ The database supports core medical centre workflows such as managing **patients*
 * Mirrors real-world healthcare database systems
 * Provides a scalable foundation for future system expansion
 
-## Author
-
-**Sharmake Ibrahim**
-GitHub: [https://github.com/sharmake-ibrahim](https://github.com/sharmake-ibrahim)
+![Alt](https://repobeats.axiom.co/api/embed/6c5189de01a67e55ddde2e3e717d6160c1b4f8b2.svg "Repobeats analytics image")
 
 
